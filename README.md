@@ -1,5 +1,5 @@
 # Prerequisites
-#
+this is the sample test trigger pipeline commit
 - JDK 18 or later
 - Maven 3.9 or later
 - MySQL 8 or later
